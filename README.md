@@ -1,3 +1,10 @@
+# Before Starting
+An introduction to the Sampling-Toolbox is provided in the paper.
+
+Paper Name + DOI
+
+We recomend reading this (short) paper before getting started.
+
 # Sampling-Toolbox
 
 Toolbox used to generate Latin Hypercube Samples (LHS) for Space Weather Indices.
